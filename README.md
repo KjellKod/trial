@@ -1,3 +1,3 @@
 Trial github repository
 
-https://travis-ci.org/indivisibleatom/trial.svg?branch=master
+![Build status Build status](https://travis-ci.org/indivisibleatom/trial.svg?branch=master)
